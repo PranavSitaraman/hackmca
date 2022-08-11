@@ -6,7 +6,7 @@ export default function Signup() {
     return (
         <div className={styles["site"]}>
             <Head>
-                <link rel="canonical" href="https://hackmca.info/signup"/>
+                <link rel="canonical" href="https://pranavsitaraman.github.io/hackmca/signup"/>
                 <meta property="og:title" content="Signup | HackMCA Hackathon"/>
             </Head>
             <meta httpEquiv="refresh" content=" 0 ; url = https://forms.gle/dj6ywUiDLpASmhYJ7"/>

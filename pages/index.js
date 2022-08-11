@@ -14,7 +14,7 @@ export default function Home() {
                 <meta charSet="UTF-8"/>
                 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
                 <meta property="og:title" content="HackMCA Hackathon"/>
-                <meta property="og:image" content="https://hackmca.info/hackmca-logo-ogpreview.png"/>
+                <meta property="og:image" content="https://pranavsitaraman.github.io/hackmca/hackmca-logo-ogpreview.png"/>
                 <meta property="og:image:width" content="1920px"/>
                 <meta property="og:image:height" content="1080px"/>
             </Head>
