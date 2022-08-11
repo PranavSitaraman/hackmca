@@ -1,2 +1,2 @@
 # HackMCA
-## https://pranavsitaraman.github.io/hackmca
+## https://hackmca.info
