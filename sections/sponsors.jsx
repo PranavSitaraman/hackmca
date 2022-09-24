@@ -5,10 +5,8 @@ export default function SponsorsSection({id}) {
         <div className={[styles["content-section-light"], styles["content-section"]].join(" ")} id={id}>
             <div className={styles["content-section-inner"]}>
                 <h1>Sponsors</h1>
-                <p>We are looking for sponsors for this event! If you or your organization would like to sponsor
-                    this event and reach hundreds of motivated, tech-minded high school students, please reach out
-                    to <a href={"mailto:mcacsclub@gmail.com"}>mcacsclub@gmail.com</a></p>
-                <img href="https://pranavsitaraman.github.io/taskade.jpg" alt="taskade"></img>
+                <img src={"taskade.jpg"} className={styles["sponsors"]} alt="taskade"></img>
+                <img src={"aops.jpg"} className={styles["sponsors"]} alt="aops"></img>
             </div>
         </div>
     )
