@@ -8,7 +8,7 @@ export default function SponsorsSection({id}) {
                 <p>We are looking for sponsors for this event! If you or your organization would like to sponsor
                     this event and reach hundreds of motivated, tech-minded high school students, please reach out
                     to <a href={"mailto:mcacsclub@gmail.com"}>mcacsclub@gmail.com</a></p>
-                <img href="https://pranavsitaraman.github.io/hackmca/taskade.jpg" alt="taskade"></img>
+                <img href="https://pranavsitaraman.github.io/taskade.jpg" alt="taskade"></img>
             </div>
         </div>
     )
